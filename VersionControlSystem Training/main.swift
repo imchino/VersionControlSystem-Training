@@ -10,5 +10,5 @@ import Foundation
 
 let message = "Awesome Git!"
 
-print(message)
+greeting(message)
 
