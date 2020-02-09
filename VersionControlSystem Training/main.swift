@@ -8,5 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
+let message = "Awesome Git!"
+
+print(message)
 
