@@ -12,3 +12,4 @@ let message = "Awesome Git!"
 
 greeting(message)
 
+let someStruct = SomeStruct()
