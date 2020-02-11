@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A45CDDB023EFCAB20090D92C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45CDDAF23EFCAB20090D92C /* main.swift */; };
 		A45CDDCA23EFDEC10090D92C /* helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45CDDC923EFDEC10090D92C /* helper.swift */; };
+		A45CDDCC23F252490090D92C /* SomeStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = A45CDDCB23F252490090D92C /* SomeStruct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		A45CDDAC23EFCAB20090D92C /* VersionControlSystem Training */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "VersionControlSystem Training"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A45CDDAF23EFCAB20090D92C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A45CDDC923EFDEC10090D92C /* helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helper.swift; sourceTree = "<group>"; };
+		A45CDDCB23F252490090D92C /* SomeStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeStruct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				A45CDDAF23EFCAB20090D92C /* main.swift */,
+				A45CDDCB23F252490090D92C /* SomeStruct.swift */,
 				A45CDDC923EFDEC10090D92C /* helper.swift */,
 			);
 			path = "VersionControlSystem Training";
@@ -123,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A45CDDCC23F252490090D92C /* SomeStruct.swift in Sources */,
 				A45CDDB023EFCAB20090D92C /* main.swift in Sources */,
 				A45CDDCA23EFDEC10090D92C /* helper.swift in Sources */,
 			);
